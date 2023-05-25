@@ -1,0 +1,15 @@
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/bin/Debug/net7.0/Practice_C_sharp_stuff
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/bin/Debug/net7.0/Practice_C_sharp_stuff.deps.json
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/bin/Debug/net7.0/Practice_C_sharp_stuff.runtimeconfig.json
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/bin/Debug/net7.0/Practice_C_sharp_stuff.dll
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/bin/Debug/net7.0/Practice_C_sharp_stuff.pdb
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/obj/Debug/net7.0/Practice_C_sharp_stuff.csproj.AssemblyReference.cache
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/obj/Debug/net7.0/Practice_C_sharp_stuff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/obj/Debug/net7.0/Practice_C_sharp_stuff.AssemblyInfoInputs.cache
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/obj/Debug/net7.0/Practice_C_sharp_stuff.AssemblyInfo.cs
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/obj/Debug/net7.0/Practice_C_sharp_stuff.csproj.CoreCompileInputs.cache
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/obj/Debug/net7.0/Practice_C_sharp_stuff.dll
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/obj/Debug/net7.0/refint/Practice_C_sharp_stuff.dll
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/obj/Debug/net7.0/Practice_C_sharp_stuff.pdb
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/obj/Debug/net7.0/Practice_C_sharp_stuff.genruntimeconfig.cache
+/Users/tpurewal/Desktop/Computer Science/C#/Practice_C_sharp_stuff/obj/Debug/net7.0/ref/Practice_C_sharp_stuff.dll
