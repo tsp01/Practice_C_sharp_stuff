@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WhatsThisEvenDoing
+namespace Games
 {
   class Program
   {
